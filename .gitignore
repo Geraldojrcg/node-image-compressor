@@ -1,0 +1,6 @@
+*.jpeg
+*.jpg
+*.png
+*.webp
+*.txt
+node_modules
